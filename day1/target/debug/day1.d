@@ -1,0 +1,1 @@
+/home/qxz2dy4/Documents/Rust/advent_of_code_2024/day1/target/debug/day1: /home/qxz2dy4/Documents/Rust/advent_of_code_2024/day1/src/main.rs /home/qxz2dy4/Documents/Rust/advent_of_code_2024/reports/src/errors.rs /home/qxz2dy4/Documents/Rust/advent_of_code_2024/reports/src/lib.rs /home/qxz2dy4/Documents/Rust/advent_of_code_2024/reports/src/reports.rs
