@@ -1,0 +1,22 @@
+# Rust build artifacts
+target/
+debug/
+release/
+
+# Cargo lock file (optional, uncomment if you want to ignore it)
+# Cargo.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.tmp

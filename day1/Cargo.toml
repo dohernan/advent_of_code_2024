@@ -5,4 +5,3 @@ edition = "2024"
 
 [dependencies]
 errors = "0.0.0"
-reports = { path="../reports" }
